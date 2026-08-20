@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 Moviefy
 
 A content-based movie recommendation system built with **Streamlit**,
@@ -124,3 +125,7 @@ Moviefy/
 - If OMDb is unreachable or a movie isn't found, the app shows a
   placeholder poster and "N/A" for missing fields instead of
   crashing.
+=======
+# Movie-recommendation-sys
+A streamlit based movie recommendation system
+>>>>>>> f93f87d6e5e85b7d3374452c0f34c3a3e5797391
